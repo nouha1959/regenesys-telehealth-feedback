@@ -29,6 +29,7 @@ Timezone for all dates/times: America/New_York.
 - Nov 2, 2026 — Nourishment (video): Instagram https://www.instagram.com/p/DfPrNFbtXY3/ · Threads https://www.threads.com/@tryregenesys/post/DfPrVs6Eesl · TikTok https://www.tiktok.com/@tryregenesys/video/7703603607622454542 · YouTube https://www.youtube.com/watch?v=lWDq4dVHgLs
 - Nov 3, 2026 — Movement & strength (image): Instagram https://www.instagram.com/p/DfSP8ZjoE1T/ · Threads https://www.threads.com/@tryregenesys/post/DfSQHCClJDC · Discord #general
 - Nov 3, 2026 (evening) — Feedback-drive announcement (questionnaire + waitlist call to action): Instagram https://www.instagram.com/p/DfTWUcbIC7T/ · Threads (2-part) https://www.threads.com/@tryregenesys/post/DfTWgY3lHqX · Discord #general https://discord.com/channels/1566443441913724988/1566443443285393440
+- Nov 4, 2026 — Turnaround preview (Nicole-selected one-time override; no rotation storyline consumed): Instagram https://www.instagram.com/p/DfU0stoNGTE/ · Threads https://www.threads.com/@tryregenesys/post/DfU1Cd_kc2d · TikTok https://www.tiktok.com/@tryregenesys/video/7704347281171959053 · YouTube https://youtu.be/j0qkb8UGck8 · Discord #general https://discord.com/channels/1566443441913724988/1566443443285393440
 - Not posted: Facebook (no Page), X (0 posts), Snapchat (no posts), Reddit (no posts)
 
 ## Outbound following / subscriptions (verified counts of accounts @tryregenesys follows — NOT follower counts)
@@ -51,4 +52,5 @@ All follows are curated, verified official health/longevity institutions and voi
 ## Sync log
 
 - 2026-11-03 — File created by Muse at Nicole Dabish's direction (standing aggregate sync for the campaign). Figures above verified as dated.
+- 2026-11-04 — Daily content run: Nicole-selected turnaround preview video posted to Instagram, Threads, TikTok, YouTube, and Discord #general (links above); X, Snapchat, Reddit, Facebook not attempted (standing unreachable/parked reasons).
 - 2026-11-03 (evening) — Growth pass round 2 completed for Instagram (23 following), Threads (21 following, 3 followers observed), and YouTube (21 campaign subscriptions); TikTok round 2 blocked (follows silently reverted in browser session; sign-in lost behind slider CAPTCHAs; count unverified). Feedback-drive announcement posted to Instagram, Threads, and Discord.
