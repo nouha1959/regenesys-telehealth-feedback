@@ -11,11 +11,12 @@ Timezone for all dates/times: America/New_York.
 
 ## Live properties
 
-- Landing page: https://tryregenesys.com (GitHub Pages; embeds the waitlist form and the extended questionnaire; pre-launch honesty lines shown; verified live Oct 30, 2026)
+- Landing page: https://tryregenesys.com (GitHub Pages; embeds the waitlist form and the extended questionnaire; pre-launch honesty lines shown; verified live Oct 30, 2026). HTTPS certificate fixed Nov 5, 2026 (~7:41 PM EST): the certificate had never been issued; custom domain removed and re-added in Pages settings, fresh certificate issued and verified loading cleanly on both https://tryregenesys.com and https://www.tryregenesys.com. "Enforce HTTPS" still greyed out in settings (GitHub: allow up to 24 hours) — to flip opportunistically at the next GitHub-settings visit.
+- Site analytics: Google Analytics 4 installed Nov 5, 2026 evening — property "Regenesys Website", Measurement ID G-6J3WH4GD19 (tag in landing-page head, commit 9659e395). Visits and traffic sources measurable only from installation onward; Google notes data may take up to 48 hours to appear. Visits before Nov 5 remain unmeasured, not zero.
 - Waitlist form: Google Forms "Regenesys Waitlist" (live Oct 30, 2026; emails not auto-collected)
 - Feedback form: Google Forms "Regenesys Telehealth Feedback" (live Oct 30, 2026; 17 questions + 3 follow-up fields; no diagnoses, medications, or clinical details collected; instrument in `questionnaire.md`, field definitions in `data-dictionary.md`)
 
-## Consented totals (verified Nov 3, 2026, 11:37 AM EST, from the private response sheets)
+## Consented totals (re-verified Nov 5, 2026, ~7:15 PM EST, from the private response sheets — supersedes the Nov 3, 2026, 11:37 AM figure)
 
 | Measure | Total recorded | External / public | Note |
 |---|---|---|---|
@@ -33,6 +34,7 @@ Timezone for all dates/times: America/New_York.
 - Nov 4, 2026 (evening) — "Help shape Regenesys" consumer feedback invitation (reviewed text, owner-approved; routes to the Extended Questionnaire at tryregenesys.com, "about 3 minutes," no care available yet): Threads (2-part) https://www.threads.com/@tryregenesys/post/DfVr6k4lNX3 · Discord #general https://discord.com/channels/1566443441913724988/1566443443285393440
 - Nov 5, 2026 — Connection & community (image): Instagram https://www.instagram.com/p/DfXZoItoCnR/ · Threads (2-part) https://www.threads.com/@tryregenesys/post/DfXZ0Q5FL6D · Discord #general https://discord.com/channels/1566443441913724988/1566443443285393440
 - Nov 5, 2026 (12:30 PM) — ORIG-2026-11-05, first run of the second daily "Original community feedback campaign": "What are you tired of repeating?" (image): Instagram https://www.instagram.com/p/DfXkY76oAFD/ · Threads https://www.threads.com/@tryregenesys/post/DfXkfcalDy_ · Discord #general https://discord.com/channels/1566443441913724988/1566443443285393440 (posted 12:28 / 12:29 / 12:30 PM EST; brand account verified before each post; TikTok/YouTube skipped — no video exists for this run)
+- Nov 5, 2026 (evening, on-demand, owner-requested) — Upbeat Connection & community video "Move like you mean it" (19s, two segments): Instagram https://www.instagram.com/p/DfYGtMPNHEv/ · Threads (2-part) https://www.threads.com/@tryregenesys/post/DfYG4QinSe6 · TikTok https://www.tiktok.com/@tryregenesys/video/7704819061254933773 · YouTube https://www.youtube.com/watch?v=7FbsaVadnu0 · Discord #general https://discord.com/channels/1566443441913724988/1566443443285393440. Replaces an earlier same-day 19s video (lonely-kitchen opening) that the owner asked to remove as too sad; that video was deleted from Instagram, Threads, YouTube, and Discord and never posted to TikTok, and is not listed here.
 - Not posted: Facebook (no Page), X (0 posts), Snapchat (no posts), Reddit (no posts)
 
 ## Outbound following / subscriptions (verified counts of accounts @tryregenesys follows — NOT follower counts)
@@ -46,16 +48,27 @@ Timezone for all dates/times: America/New_York.
 
 All follows are curated, verified official health/longevity institutions and voices. No bought followers, no mass-follow schemes.
 
+## Audience (verified Nov 5, 2026, ~7:15 PM EST, read off the platform screens)
+
+- Instagram: 9 posts · 1 follower · 23 following. Nov 5 video: 0 likes, 0 comments.
+- Threads: 3 followers. Last 30 days: 39 views, 20 viewers, 0 interactions.
+- TikTok: 4 videos · 1 follower · 0 total likes. Nov 5 video: 0 plays; older videos 0, 0, 1 plays. Profile shows 1 Following (Nov 2's 16 recorded follows never persisted in the displayed count — standing discrepancy).
+- YouTube: 1 subscriber · 4 videos · 13 total views in the last 28 days, watch time effectively zero. Nov 5 video: 0 views.
+- Discord: server's only member is the brand itself; all #general messages are the brand's own posts.
+- No audience question or comment was found on any brand account in the Nov 5 evening sweep (Threads Replies: "No replies yet"; 0 comments everywhere).
+
 ## Unavailable / unverified (unmeasured — not zero)
 
-- Website visits/sessions: no analytics installed on the landing page (GitHub Pages) — no data exists.
-- Social referrals to tryregenesys.com: not attributable (no site analytics, no UTM tagging yet).
-- Follower counts and per-platform engagement rates: not verified; a combined analytics sweep on Nov 2, 2026 failed partway and its partial figures were discarded. One observed data point: the Nov 2 TikTok video showed 0 plays / 0 likes / 0 comments when re-checked Nov 3, 2026.
+- Website visits/sessions: GA4 installed Nov 5, 2026 evening (see Live properties); no data yet — Google notes up to 48 hours before reports appear. Visits before installation are unmeasured, not zero.
+- Social referrals to tryregenesys.com: not yet attributable (no GA4 data yet; no UTM tagging).
+- TikTok following count: still unverified (see Audience / Outbound following above).
 
 ## Sync log
 
+- 2026-11-05 (evening) — Analytics sweep + site fixes: GA4 installed (G-6J3WH4GD19); HTTPS certificate fixed and verified on both addresses; form counts re-verified at source (~7:15 PM EST) — still 1 waitlist / 1 questionnaire, both the Oct 31 internal tests, public sign-ups 0 — superseding the Nov 3 totals date above; audience figures verified as listed above. The GitHub push of this updated file did NOT go through Nov 5 evening (connector write approval timed out); file saved locally only, push pending owner go-ahead to retry. Remote head remains commit da8e590.
 - 2026-11-03 — File created by Muse at Nicole Dabish's direction (standing aggregate sync for the campaign). Figures above verified as dated.
 - 2026-11-05 (12:30 PM) — ORIG-2026-11-05, first run of the second daily "Original community feedback campaign": "What are you tired of repeating?" image posted to Instagram, Threads, and Discord #general (links above); first creative now CONSUMED (never reused). TikTok/YouTube skipped — no video exists for this run. Consented totals remain as last verified Nov 3, 2026, 11:37 AM EST — NOT freshly verified today (STALE).
+- 2026-11-05 (evening) — On-demand upbeat replacement video "Move like you mean it" (19s) posted to Instagram, Threads, TikTok, YouTube, and Discord #general (links above); replaces the earlier same-day connection video the owner asked to remove as too sad (deleted from Instagram, Threads, YouTube, Discord; never posted to TikTok). Consented totals remain as last verified Nov 3, 2026, 11:37 AM EST — NOT freshly verified today.
 - 2026-11-05 — Daily content run: Connection & community image posted to Instagram, Threads (2-part), and Discord #general (links above); TikTok/YouTube not attempted (still image does not fit video platforms); X, Snapchat, Reddit, Facebook not attempted (standing unreachable/parked reasons). Consented totals remain as last verified Nov 3, 2026, 11:37 AM EST — NOT freshly verified today.
 - 2026-11-04 — Daily content run: Nicole-selected turnaround preview video posted to Instagram, Threads, TikTok, YouTube, and Discord #general (links above); X, Snapchat, Reddit, Facebook not attempted (standing unreachable/parked reasons).
 - 2026-11-04 (evening) — "Help shape Regenesys" invitation published to Threads (2-part) and Discord #general, links above; @tryregenesys identity verified before each post and both texts read back after posting. Consented totals in this file remain as last verified Nov 3, 2026, 11:37 AM EST — they were NOT freshly verified today.
